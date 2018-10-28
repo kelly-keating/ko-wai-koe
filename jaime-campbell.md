@@ -1,3 +1,4 @@
+
 Ko Taupiri tōku maunga
 Ko Waikato tōku awa
 Ko Tainui tōku waka
@@ -8,4 +9,3 @@ No Te Kuiti me no Huia ahau
 Ko Jaime Ngamihi tōku ingoa
 No rei ra
 Kia ora koutou
-
